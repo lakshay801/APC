@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/frontend_complete_features_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backend_complete_features_v2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
